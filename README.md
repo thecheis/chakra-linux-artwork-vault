@@ -1,22 +1,24 @@
 # Chakra Linux artwork vault
 Preserving original artwork for [Chakra Linux](https://en.wikipedia.org/wiki/Chakra_(operating_system)).
 
-This repo contains a lot of selected original artwork used between 2012-2015. Some items were omitted due to possible authorship issues.
+This repo contains a lot of selected branding and original artwork used between 2012-2015 licensed under Crative Commons. Some items were omitted due to possible authorship issues.
 
 Release order (codenames):
 
--Claire
+* Claire
 
--Benz
+* Benz
 
--Descartes
+* Descartes
 
 ### Notes:
 
--Tribe: the original Chakra installer.
+* Tribe: the original Chakra installer.
 
--Kapudan: startup configuration app, taken from [Pardus](https://en.wikipedia.org/wiki/Pardus_(operating_system)).
+* Kapudan: startup configuration app, taken from [Pardus](https://en.wikipedia.org/wiki/Pardus_(operating_system)).
+
+* Akabei: the Chakra package manager project, based on Pacman syntax (never released).
 
 ---
 
-All my affection to this project, team, community and legacy.
+_All my affection to this project, team, community and legacy._
