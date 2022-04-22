@@ -6,6 +6,8 @@ Preserving original artwork for [Chakra Linux](https://en.wikipedia.org/wiki/Cha
 
 This repo contains a lot of selected branding, screenshots, development material and original artwork used between 2012-2015 licensed under Crative Commons. Some items were omitted due to possible authorship / license issues.
 
+Chakra was an anagram inspired by "Arch" + "KDE".
+
 [DistroWatch data.](https://distrowatch.com/table.php?distribution=chakra)
 
 Release order (codenames):
