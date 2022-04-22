@@ -1,3 +1,6 @@
+<p align="right">
+ <img alt="size" name="size" src="https://img.shields.io/github/repo-size/thecheis/chakra-linux-artwork-vault?color=2d8cff&style=for-the-badge">
+</p>
 
 ![Chakra](https://github.com/thecheis/chakra-linux-artwork-vault/blob/main/Chakra%20Project/Branding/Chakra-new-branding-2014.png)
 
