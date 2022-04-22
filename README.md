@@ -28,7 +28,7 @@ Release order (codenames):
 
 * Akabei: the Chakra package manager project, based on Pacman syntax (never released).
 
-* Oktopi: Pacman GUI.
+* Oktopi: Pacman Qt GUI.
 
 ---
 
