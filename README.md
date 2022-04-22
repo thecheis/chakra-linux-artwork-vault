@@ -4,6 +4,7 @@
 <p align="left">
  <img alt="size" name="size" src="https://img.shields.io/github/repo-size/thecheis/chakra-linux-artwork-vault?color=2d8cff&style=for-the-badge">
 </p>
+
 Preserving original artwork for [Chakra Linux](https://en.wikipedia.org/wiki/Chakra_(operating_system)).
 
 This repo contains a lot of selected branding, screenshots, development material and original artwork used between 2012-2015 licensed under Crative Commons. Some items were omitted due to possible authorship / license issues.
